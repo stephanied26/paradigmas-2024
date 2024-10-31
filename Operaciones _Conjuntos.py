@@ -1,4 +1,4 @@
-# Operaciones con Conjuntos de Números - 2
+# Operaciones con Conjuntos de Números
 #***********************************************************************************
 # Crea un programa que permita al usuario trabajar con dos conjuntos de números, 
 # almacenados en listas. El programa debe ofrecer las siguientes opciones:
